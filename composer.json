@@ -1,5 +1,5 @@
 {
-    "name": "drivetechusa/php-style-fixer",
+    "name": "drivetechusa/php-styles",
     "description": "DriveTechUSA shared PHP style rules for PHP-CS_Fixer",
     "license": "MIT",
     "require": {
