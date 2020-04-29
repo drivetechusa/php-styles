@@ -1,0 +1,13 @@
+{
+    "name": "xanderbean/php-style-fixer",
+    "description": "Xanderbean shared PHP style rules for PHP-CS_Fixer",
+    "license": "MIT",
+    "require": {
+        "friendsofphp/php-cs-fixer": "^2.0"
+    },
+    "autoload": {
+        "files": [
+            "./src/helpers.php"
+        ]
+    }
+}
