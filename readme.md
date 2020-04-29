@@ -1,3 +1,14 @@
+### Add repository to composer.json
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/drivetechusa/php-styles"
+      }
+    ]
+
+### Composer require
+    composer require drivetechusa/php-styles --dev
+
 ### Create file .php_cs.dist
 
     <?php
